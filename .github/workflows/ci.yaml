@@ -4,7 +4,7 @@ on:
   push: 
     branches:
       - main
-      - dev
+      - develop
   pull_request:
 
 jobs:
@@ -93,5 +93,4 @@ jobs:
       - name: Upload coverage to codecov
         uses: codecov/codecov-action@v3
         with:
-          token: 4777ddd8-19e0-4c38-882a-a359f2cea6cc
           files: client.info, core.info, manifest.info, msgpack.info, wasm.info, resolvers.info
