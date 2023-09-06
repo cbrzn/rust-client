@@ -1,6 +1,6 @@
 use polywrap_client::client::PolywrapClient;
 use polywrap_client_builder::{PolywrapClientConfig, PolywrapClientConfigBuilder};
-use polywrap_client_default_config::{SystemClientConfig, Web3ClientConfig};
+use cbrzn_client_default_config::{SystemClientConfig, Web3ClientConfig};
 use polywrap_msgpack_serde::to_vec;
 use serde::Serialize;
 

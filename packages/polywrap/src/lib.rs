@@ -1,6 +1,6 @@
 pub use polywrap_client as client;
 pub use polywrap_client_builder as builder;
-pub use polywrap_client_default_config as default_config;
+pub use cbrzn_client_default_config as default_config;
 pub use polywrap_core as core;
 pub use polywrap_msgpack_serde as msgpack;
 pub use polywrap_plugin as plugin;

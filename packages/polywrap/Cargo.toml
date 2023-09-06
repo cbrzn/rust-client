@@ -16,7 +16,7 @@ polywrap_client.workspace = true
 polywrap_wasm.workspace = true
 polywrap_plugin.workspace = true
 wrap_manifest_schemas.workspace = true
-polywrap_client_default_config.workspace = true
+cbrzn_client_default_config.workspace = true
 polywrap_resolver_extensions.workspace = true
 
 thiserror.workspace = true

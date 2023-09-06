@@ -1,5 +1,5 @@
 [package]
-name = "polywrap_client_default_config"
+name = "cbrzn_client_default_config"
 description = "Default configuration for Polywrap Client"
 
 version.workspace = true

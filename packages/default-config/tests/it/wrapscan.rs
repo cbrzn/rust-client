@@ -1,6 +1,6 @@
 use polywrap_client::client::PolywrapClient;
 use polywrap_client_builder::{PolywrapClientConfig, PolywrapClientConfigBuilder};
-use polywrap_client_default_config::SystemClientConfig;
+use cbrzn_client_default_config::SystemClientConfig;
 use polywrap_core::{wrap_loader::WrapLoader, uri::Uri, macros::uri};
 
 #[test]

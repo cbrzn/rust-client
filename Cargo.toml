@@ -63,7 +63,7 @@ polywrap_resolvers = { version = "0.1.9-beta.2", path = "packages/resolvers" }
 polywrap_resolver_extensions = { version = "0.1.9-beta.2", path = "packages/resolver-extensions" }
 polywrap_tests_utils = { version = "0.1.9-beta.2", path = "packages/tests-utils" }
 polywrap_plugin = { version = "0.1.9-beta.2", path = "packages/plugin" }
-polywrap_client_default_config = { version = "0.1.9-beta.2", path = "packages/default-config" }
+cbrzn_client_default_config = { version = "0.1.9-beta.2", path = "packages/default-config" }
 polywrap_core_macros = { version = "0.1.9-beta.2", path = "packages/core/macros" }
 
 polywrap_plugin_implementor = { version = "0.1.9-beta.2", path = "packages/plugin/implementor" }

@@ -184,7 +184,7 @@ mod test {
     use polywrap_client::{builder::PolywrapClientConfig, client::PolywrapClient};
     use std::{collections::HashMap, sync::Arc};
 
-    use polywrap_client_default_config::{SystemClientConfig, Web3ClientConfig};
+    use cbrzn_client_default_config::{SystemClientConfig, Web3ClientConfig};
     use polywrap_msgpack_serde::to_vec;
     use polywrap_tests_utils::mocks::{get_mock_client, get_mock_invoker, get_mock_wrapper, MockWrapper};
     use serde::Serialize;

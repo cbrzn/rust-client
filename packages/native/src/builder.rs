@@ -8,7 +8,7 @@ use polywrap_client::{
     client::PolywrapClient,
     core::uri::Uri,
 };
-use polywrap_client_default_config::{SystemClientConfig, Web3ClientConfig};
+use cbrzn_client_default_config::{SystemClientConfig, Web3ClientConfig};
 
 use crate::{
     client::FFIClient,
